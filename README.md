@@ -2,14 +2,14 @@ README
 
 TankBattle is a two-player game where two tanks engage in battle against each other!
 Each player must aim their turrets and power, then fire at the opposing tank player.
-Whoever defeats their opponent first wins! 
+Whoever defeats their opponent first wins! <br/>
 The game comes with random landscape generation and is written in C#.
 
 HOW TO
 
-Try to fire at the opposing tank to win!
-Left/Right: Aim Turret
-Up/Down: Adjust Fire Power
+Try to fire at the opposing tank to win!<br/>
+Left/Right: Aim Turret<br/>
+Up/Down: Adjust Fire Power<br/>
 Space: Fire
 
 ![TankBattle Start Image](https://github.com/lkwunhyo/TankBattle/blob/master/screenshots/newscreen.PNG)
