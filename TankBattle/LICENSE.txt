@@ -1,0 +1,31 @@
+Licensing details for the assets distributed as part of this game.
+
+Background photos
+=================
+
+These photographs are all part of the public domain:
+
+background1.jpg
+http://www.publicdomainpictures.net/view-image.php?image=171264&picture=sunset-sky
+
+background2.jpg
+http://www.publicdomainpictures.net/view-image.php?image=222175&picture=gradient-sky-at-sunset
+
+background3.jpg
+http://www.publicdomainpictures.net/view-image.php?image=16456&picture=dark-blue-sky
+
+background4.jpg
+http://www.publicdomainpictures.net/view-image.php?image=3545&picture=stormy-sky
+
+Title screen
+============
+
+The tank image is part of the public domain. The font is under a special license that allows
+distribution under certain circumstances.
+
+Tank clipart:
+https://openclipart.org/detail/97021/xylograph-tank
+
+Font:
+"Action Jackson" from http://fonts.tom7.com/
+License information here: http://fonts.tom7.com/legal/
